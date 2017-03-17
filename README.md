@@ -2,6 +2,8 @@
 
 A buffered sender to AWS SQS in Go. Use as follows:
 
+![](https://travis-ci.org/saquibmian/aws-sqs-buffered-queue.svg?branch=master)
+
 ```go
 var (
 	bufferSize = 10000
